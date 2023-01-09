@@ -1,0 +1,27 @@
+body {
+    background-color: #ff0000;
+    }
+    h1 {
+    font-size: 4.5em;
+    }
+     
+    button {
+    font-size: 30px;
+    width: 140px;
+    height: 60px;
+    border-radius: 100px;
+    margin-left: 10px;
+    }
+    
+    .container {
+    margin: auto;
+    margin-top: 200px;
+    width: 400px;
+    height: 400px;
+    }
+
+    #controls {
+    margin-left: -90px;
+    width: 510px;
+    height:70px;
+    }
